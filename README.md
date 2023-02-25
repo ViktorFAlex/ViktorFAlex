@@ -8,7 +8,7 @@
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-%238DD6F9?logo=postgreSQL&style=for-the-badge&logoColor=black)
 
-![image](https://www.codewars.com/users/ViktorFAlex/badges/small)
+![image](https://www.codewars.com/users/ViktorFAlex/badges/medium)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorFAlex&layout=compact)](https://github.com/ViktorFAlex)
 ![](https://github-readme-stats.vercel.app/api?username=viktorfalex&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
