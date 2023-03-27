@@ -14,5 +14,5 @@
 
 ![image](https://www.codewars.com/users/ViktorFAlex/badges/small)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorFAlex&layout=compact)](https://github.com/ViktorFAlex)
-![](https://github-readme-stats.vercel.app/api?username=viktorfalex&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+[![Top Langs](https://github-readme-stats-two-nu-56.vercel.app/api/top-langs/?username=ViktorFAlex&layout=compact)](https://github.com/ViktorFAlex)
+![](https://github-readme-stats-two-nu-56.vercel.app/api?username=viktorfalex&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
